@@ -15,3 +15,5 @@ inst_conf $HOME/.tmux.conf $PWD/tmux.conf
 inst_conf $HOME/.config/i3 $PWD/config/i3
 inst_conf $HOME/.config/i3status $PWD/config/i3status
 
+inst_conf $HOME/.vim $PWD/vim
+
