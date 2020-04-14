@@ -64,7 +64,8 @@ set background=dark
 
 " Gui options (remove toolbar)
 set guioptions-=T
-set guifont=Noto\ Mono\ 10
+set guifont=VictorMono\ Nerd\ Font\ 11
+" set guifont=Noto\ Mono\ 10
 " set guifont=DejaVu\ Sans\ Mono\ 10
 
 " Syntastic stuff
