@@ -16,5 +16,6 @@ inst_conf $HOME/.config/i3 $PWD/config/i3
 inst_conf $HOME/.config/i3status $PWD/config/i3status
 
 inst_conf $HOME/.vim $PWD/vim
+inst_conf $HOME/.bashrc $PWD/bashrc
 
 echo "Optionally, cd into fonts/ and run setup.sh to download/install fonts"
